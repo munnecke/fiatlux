@@ -1,7 +1,7 @@
-# FiatLux (Let there be light)
+# Night Alive 
 Live Astroimaging Software
 
-Fiat Lux is open source software designed to provide live astronomical imaging through open source software.
+This is an open source repository to provide live astronomical imaging through open source software.
 
 It's primary installation is designed for the Raspberry Pi
 initial configuration (for Raspberry Pi Buster )
