@@ -6,3 +6,4 @@ Fiat Lux is open source software designed to provide live astronomical imaging t
 It's primary installation is designed for the Raspberry Pi
 
 initiated Dec 2019  Tom Munnecke munnecke@gmail.com
+I've now edited the readme file...
