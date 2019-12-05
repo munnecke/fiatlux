@@ -6,12 +6,12 @@ This is an open source repository to provide live astronomical imaging through o
 It's primary installation is designed for the Raspberry Pi
 initial configuration (for Raspberry Pi Buster )
 
-'''
-sudo install kstars  #install INDI server, star catalogs, planetarium, telescope/camera control
-sudo install siril   #install image stacking serve. 
-sudo install gimp    #install image processing software.
-#node-red should be installed with the PI Buster installation
-'''
+
+    sudo install kstars  #install INDI server, star catalogs, planetarium, telescope/camera control
+    sudo install siril   #install image stacking serve. 
+    sudo install gimp    #install image processing software.
+   
+
 
 
 initiated Dec 2019  Tom Munnecke munnecke@gmail.com
